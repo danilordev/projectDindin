@@ -9,7 +9,7 @@ body {
 .header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   padding: 20px 103px 26px 82px;
   background: #2E948A;
   box-shadow: 0px 3px 7px #00000040;
@@ -40,48 +40,74 @@ body {
   }
 /*____________________________________________________*/
 
+.principal1 {
+  margin: 0 auto;
+  width: 600px;
+  display: flex;
+  padding: 20px 20px 20px 20px;
+  justify-content: space-evenly;
+}
+.principal1 h1 {
+  color: #FF4081;
+  width: 480px;
+  text-align:left; 
+  font-size: 60px;
+  text-justify: inter-word;
+}
+.principal1 p {
+  font-size: 27px;
+  padding: 20px 0 30px 0px;
+  width: 320px;
+}
+#botao {
+  border: solid 1px #FF4081 ;
+  color: #FF4081;
+  width: 250px;
+  text-align: center;
+  border-radius: 20px;
+  padding: 3px;  
+}
 
+/* inicio1 */
+.inicio1 {
+  padding: 50px 0px 50px 0px;
+  display: flex;
+  background-color: #F7F7F7;;
+}
 
-.inicio {
-    max-width: 1183px;
-    margin: 0 auto;
+.inicio1 ul{
     display: flex;
-    justify-content: space-evenly;
-    margin: 125px 0 66px 0;
+    justify-content: space-evenly ;
+    list-style: none;
+    margin: 0 auto;   
 }
 
-.container h1 {
-    padding: 0px 10px;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 60px;
-    line-height: 69px;
+.inicio1 h3{
+    padding: 20px 0px 20px 0px;
     color: #FF4081;
+}
+
+.inicio1 li{
+    text-align: center;
+    width: 400px;
+   
+}
+
+.paragrafo{
+    padding: 20px;
+}
+
+.buttonpink{
     
-}
-.container p {
-    padding: 0px 10px;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 27px;
-    line-height: 31px;
-    text-transform: uppercase;
-    color: #555555;
-}
-.container a { 
-    box-sizing: border-box;
-    border: 2px solid #FF4081;
-    border-radius: 62px;
+    background-color: #FF4081;
+    width: 200px;
+    font-size: 20px;
+    color: white;
+    margin: 0 auto;
+    border-radius: 40px;
+    padding: 14px 0 14px 0;
 
-    padding: 0px 10px;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 27px;
-    line-height: 31px;
-    text-transform: uppercase;
-    color: #FF4081;
 }
-
 
 
 /*____________________________________________________*/
@@ -90,8 +116,8 @@ body {
 .footer {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 20px 103px 26px 82px;
+    justify-content: space-evenly;
+    padding: 20px 10px 26px 82px;
     background: #2E948A;
     box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
   }
