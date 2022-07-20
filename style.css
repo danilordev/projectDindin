@@ -39,6 +39,7 @@ body {
     color: #FDFDFD;
   }
 /*____________________________________________________*/
+/*inicio*/
 
 .principal1 {
   margin: 0 auto;
@@ -69,6 +70,7 @@ body {
 }
 
 /* inicio1 */
+
 .inicio1 {
   padding: 50px 0px 50px 0px;
   display: flex;
@@ -83,7 +85,7 @@ body {
 }
 
 .inicio1 h3{
-    padding: 20px 0px 20px 0px;
+    padding: 20px 0px -0px 0px;
     color: #FF4081;
 }
 
@@ -94,7 +96,8 @@ body {
 }
 
 .paragrafo{
-    padding: 20px;
+    padding: 5px;
+    margin: 0px 0px 20px 0px;
 }
 
 .buttonpink{
@@ -109,6 +112,104 @@ body {
 
 }
 
+/*quem somos nos*/
+
+.principal3{
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.principal3 h3{
+  font-size: 37px;
+  padding: 80px 0px 50px 100px;
+  color: #2E948A;
+}
+
+.principal3 ul{
+  display: flex;
+  padding: 0px 0px 0px 100px;
+}
+
+.principal3 li{
+  padding: 10px 80px 70px 0px;
+  display: flex;
+}
+
+.principal3 p{
+  padding: 10px 0px 0px 20px;
+  width: 400px;
+  font-size: 18px;
+}
+
+.principal3 span{
+  padding: 10px;
+  font-weight: 600;
+}
+
+/* Mais conteudo para voce */
+
+.principal4 {
+padding: 2px 2px 0px 2px;
+display: flex;
+background-color: #E5E5E5;
+}
+
+.principal4 ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.principal4 h3 {
+  color: #2E948A;
+  text-align: left;
+  padding: 10px 0px 0px 38px;
+}
+
+section h4 {
+  background-color: #E5E5E5 ;
+  color: #2E948A;
+  font-size: 37px;
+  padding: 50px 580px 1px 10px;
+  text-align: center;
+}
+
+.principal4 li {
+  text-align: center;
+  width: 400px;
+}
+
+.paragrafo4 {
+  padding: 0px 10px 10px 0px;
+  width: 319px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.quadro {
+  margin: 0 auto;
+  width: 319px;
+  height: 193px;
+  background-color: #C4C4C4;
+}
+
+.ver-posts{
+text-align: center;
+padding: 70px 0px 100px 0px;
+background-color: #E5E5E5;
+}
+
+.ver-posts p{
+  width: 300px;
+  font-size: 25px;
+  background-color: white;
+  margin: 0 auto;
+  font-family: "Ubuntu",sans-serif;
+  border: 1px solid  #FF4081;
+  color: #FF4081;
+  padding: 10px 0 10px 10px;
+  border-radius: 40px;
+}
 
 /*____________________________________________________*/
 
