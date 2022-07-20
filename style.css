@@ -188,7 +188,7 @@ background-color: #E5E5E5;
   border-radius: 40px;
 }
 /*____________________________________________________*/
-
+/*cursos*/
 .titulo_cursos {
   margin: 0 auto;
   padding: 70px 0px 80px 20px ;
@@ -199,87 +199,60 @@ background-color: #E5E5E5;
       color: #FF4081;
   }
   .titulo_cursos span{
-      font-family: "Ubuntu",sans-serif;
       font-size: 20px;
       font-weight: 400;
       color: #555555;
   }
-  /* lista de cursos / imagem e texto */
+/* titulo*/
   .main{
       margin: 0 auto;
       width: 1600px;
+      text-decoration: none;
    }
    .curso1{
        display: flex;
       padding: 10px 20px 80px 0px;
    }
    .titulo {
-       font-family: "Ubuntu",sans-serif;
       font-size: 35px;
       font-weight: 700;
       color: #FF4081;
        padding:0px 20px 30px 80px;
-  
-  }
-  
-  
-  
-  
-  .curso1 p{
-      
-      font-family: "Ubuntu",sans-serif;
+   }
+   .curso1 p{
       font-size: 18px;
       font-weight: 300;
       color: #000000;
       padding: 30px 0px 60px 0px;
       width:800px;
   }
-  
-  #botao_curso{
-      
-      
+  #botao_curso {
+      text-decoration: none;
       background-color:#419488 ;
       border: 1px solid #419488; 
       color: #ffffff;
       font-size: 20px;
-      font-family: "Ubuntu",sans-serif;
       border-radius: 67px;
       padding: 10px 50px 10px 50px ;
-  
-      
   }
-  
-  
-  
-  
-  
   .linha div{
-      
       width: 1600px;
       background-color: #C4C4C4;
       height: 2px;
       background-color: #C4C4C4;;
       margin: 0 auto;
-      
-     
-  
-  }
-  
+ }
   .curso2{
       display: flex;
       width: 1100px;
       padding: 80px 20px 100px 0px
-  
   }
-  
   .titulo2{
       font-size: 35px;
       font-weight: 700;
       color: #FF4081;
       padding:0px 20px 30px 80px;
-  
   }
-  
   .curso2 p{
       font-size: 18px;
       font-weight: 300;
@@ -287,28 +260,17 @@ background-color: #E5E5E5;
       padding: 30px 0px 60px 0px;
       width:800px;
   }
-  
-  
-  
-  
-  .curso3{
+ .curso3{
       display: flex;
       width: 1100px;
       padding: 80px 0px 150px 60px;
-  
-  
   }
-  
   .titulo3{
-      
       font-size: 35px;
       font-weight: 700;
       color: #FF4081;
       padding:0px 20px 30px 80px;
-  
-  
   }
-  
   .curso3 p{
       font-size: 18px;
       font-weight: 300;
@@ -316,6 +278,8 @@ background-color: #E5E5E5;
       padding: 30px 0px 60px 0px;
       width:800px;
   }
+/*____________________________________________________*/
+
 
 
 /*____________________________________________________*/
