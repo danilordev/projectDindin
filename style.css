@@ -280,7 +280,61 @@ background-color: #E5E5E5;
   }
 /*____________________________________________________*/
 
-
+.principal-investimentos{
+  width: 100px;
+  margin: 0 auto;
+  display: flex;
+  padding: 50px 250px 50px 0px ; 
+  justify-content: space-around;
+}
+.principal-investimentos h1{
+  padding: 80px 0px 0px 0px;
+  color: #FF4081;
+  width: 512px;
+  text-align: left;
+  font-size: 60px;
+  text-justify: inter-word; 
+}
+.principal-investimentos p{
+  font-size: 20px;
+  padding: 20px 0px 40px 0px;
+  width: 461px;
+}
+.principal-investimentos img{
+  padding: 60px 0px 0px 110px;
+}
+.cursos{
+  background-color:#F7F7F7; ;
+  justify-content: space-around;
+}
+.aula1{
+  display: flex;
+  width: 1300px;
+  margin: 0 auto;
+  padding: 50px 13px 50px 15px;
+}
+.aula2{
+  display: flex;
+  width: 1300px;
+  margin: 0 auto;
+  padding: 50px 13px 50px 15px;
+}
+.aula3{
+  display: flex;
+  width: 1300px;
+  margin: 0 auto;
+  padding:50px 13px 50px 15px;
+}
+.titulo_aula{
+  color: #FF4081;
+  font-size: 35px;
+  font-weight: 700px;
+  padding: 10px 10px 10px 100px;
+}
+.aula1  p , .aula2 p, .aula3 p{
+  padding: 10px 0px 0px 100px;
+  width: 500px;
+}
 
 /*____________________________________________________*/
 /*footer*/
