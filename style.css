@@ -336,10 +336,11 @@ background-color: #E5E5E5;
   width: 500px;
 }
 /*____________________________________________________*/
+/*contato*/
 
 .contato{
   margin: 0 auto;
-  width: 1400px;
+  width: 1300px;
   display: flex;
   justify-content: space-around;
    padding: 100px 0px 165px 0px;
