@@ -46,9 +46,9 @@ body {
 /*inicio*/
 .principal1 {
   margin: 0 auto;
-  width: 600px;
+  width: 300px;
   display: flex;
-  padding: 20px 20px 20px 20px;
+  padding: 20px 0px 20px 00px;
   justify-content: space-evenly;
 }
 .principal1 h1 {
@@ -106,7 +106,7 @@ body {
 }
 /*quem somos nos*/
 .inicio2{
-  width: 1400px;
+  width: 1345px;
   margin: 0 auto;
 }
 .inicio2 h3{
@@ -147,13 +147,13 @@ justify-content: center;
 .inicio3 h3 {
   color: #2E948A;
   text-align: center;
-  padding: 10px 0px 0px 38px;
+  padding: 10px 0px 0px 0px;
 }
 section h4 {
   background-color: #e5e5e5 ;
   color: #2E948A;
   font-size: 37px;
-  padding: 50px 20px 20px 0px;
+  padding: 50px 10px 20px 0px;
   text-align: center;
   }
 .inicio3 li {
@@ -172,10 +172,12 @@ section h4 {
   height: 193px;
   background-color: #C4C4C4;
 }
+/*botao posts*/
 .posts{
 text-align: center;
 padding: 70px 0px 100px 0px;
 background-color: #E5E5E5;
+text-decoration: none;
 }
 .posts p{
   width: 300px;
@@ -206,24 +208,24 @@ background-color: #E5E5E5;
 /* titulo*/
   .main{
       margin: 0 auto;
-      width: 1600px;
+      width: 1350px;
       text-decoration: none;
    }
    .curso1{
        display: flex;
-      padding: 10px 20px 80px 0px;
+      padding: 10px 20px 80px 110px;
    }
    .titulo {
       font-size: 35px;
       font-weight: 700;
       color: #FF4081;
-       padding:0px 20px 30px 80px;
+       padding:0px 20px 30px 0px;
    }
    .curso1 p{
       font-size: 18px;
       font-weight: 300;
       color: #000000;
-      padding: 30px 0px 60px 0px;
+      padding: 30px 0px 60px 5px;
       width:800px;
   }
   #botao_curso {
@@ -236,7 +238,7 @@ background-color: #E5E5E5;
       padding: 10px 50px 10px 50px ;
   }
   .linha div{
-      width: 1600px;
+      width: 1240px;
       background-color: #C4C4C4;
       height: 2px;
       background-color: #C4C4C4;;
@@ -245,37 +247,37 @@ background-color: #E5E5E5;
   .curso2{
       display: flex;
       width: 1100px;
-      padding: 80px 20px 100px 0px
+      padding: 80px 20px 100px 100px
   }
   .titulo2{
       font-size: 35px;
       font-weight: 700;
       color: #FF4081;
-      padding:0px 20px 30px 80px;
+      padding:0px 20px 30px 0px;
   }
   .curso2 p{
       font-size: 18px;
       font-weight: 300;
       color: #000000;
-      padding: 30px 0px 60px 0px;
+      padding: 30px 0px 60px 5px;
       width:800px;
   }
  .curso3{
       display: flex;
       width: 1100px;
-      padding: 80px 0px 150px 60px;
+      padding: 80px 0px 150px 100px;
   }
   .titulo3{
       font-size: 35px;
       font-weight: 700;
       color: #FF4081;
-      padding:0px 20px 30px 80px;
+      padding:0px 20px 30px 0px;
   }
   .curso3 p{
       font-size: 18px;
       font-weight: 300;
       color: #000000;
-      padding: 30px 0px 60px 0px;
+      padding: 30px 0px 60px 5px;
       width:800px;
   }
 /*____________________________________________________*/
