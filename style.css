@@ -428,13 +428,13 @@ background-color: #C4C4C4;
 color: black;
 }
 .paragrafo-blog{
-padding: 20px 50px 110px 0px;
+padding: 20px 50px 110px 50px;
 width: 516px;   
 }
 .section-blog h3{
 color: #FF4081;
 text-align: left;
-padding: 20px 0px 0px 0px;
+padding: 20px 0px 0px 50px;
 font-size: 30px;
 }
 /*postagens */ 
