@@ -1,12 +1,12 @@
 # projectDindin
-criaçao de pagina de curso no curso gama academy
+ acesse o site: <h2><a href="https://danilordev.github.io/projectDindin/inicio">DINDIN</h2>
 
 ---
 <h1 align=center> Escola de Educaçao finaceira dindin </hi>
 <p align="center">
 
-  <img src="dindin-imagens/dindin-imagens/logo-header.png" width="50%">
-</p>
+  <img src="dindin-imagens/dindin-imagens/logo-header.png" width="50%" display="none">
+</p></a>
 
 <h1 align=center> HandsOn 1 </hi> <br>
 -
